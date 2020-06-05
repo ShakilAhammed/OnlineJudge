@@ -2,7 +2,7 @@
 
 Check out my OJ's profiles : 
 
--------------------------CodeForces--------------------------
-Handle: ShakilAhammed
-Profile: http://codeforces.com/profile/ShakilAhammed
-Submissions : http://codeforces.com/submissions/ShakilAhammed
+-------------------------CodeForces-------------------------- <br />
+Handle: ShakilAhammed <br />
+Profile: http://codeforces.com/profile/ShakilAhammed<br />
+Submissions : http://codeforces.com/submissions/ShakilAhammed<br />
