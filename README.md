@@ -10,4 +10,4 @@ Submissions : http://codeforces.com/submissions/ShakilAhammed<br />
 
 -------------------------LeetCode-------------------------- <br />
 Handle: ShakilAhammed <br />
-Profile: [https://leetcode.com/shakilahammed7/](https://leetcode.com/u/ShakilAhammed/)<br />
+Profile: https://leetcode.com/u/ShakilAhammed/<br />
