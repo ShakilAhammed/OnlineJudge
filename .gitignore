@@ -7,3 +7,62 @@ UVA OJ/test.exe
 Leet Code/.vscode
 *.exe
 Leet Code/Test.cpp
+
+UVA OJ/.vscode
+UVA OJ/input.txt
+UVA OJ/output.txt
+UVA OJ/test.cpp
+UVA OJ/test.exe
+.vscode
+Leet Code/.vscode
+*.exe
+Leet Code/Test.cpp
+
+# Ignore compiled object files and libraries
+*.o
+*.obj
+*.so
+*.a
+*.lib
+*.dll
+
+# Ignore compiled executables
+*.exe
+*.out
+*.app
+*.elf
+
+# Ignore directories created by common build systems
+/build/
+bin/
+obj/
+lib/
+build/
+
+# Ignore temporary files created during development
+*.log
+*.tmp
+*.swp
+*.swo
+*.~*
+
+# Ignore CMake generated files and directories
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Ignore other build system generated files
+*.d
+*.dep
+*.dSYM/
+*.gcno
+*.gcda
+*.coverage
+
+# Ignore editor and IDE specific files
+.vscode/
+.idea/
+*.user
+*.workspace
+home/
