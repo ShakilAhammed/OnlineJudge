@@ -6,11 +6,10 @@
 using namespace std;
 
 int main(){
-    int n1, n2;
-    cin>>n1>>n2;
-    int n = n1 * n2;
+    int n;
+    cin>>n;
     if(n%2 || n == 2)
-        cout<<"Odd"<<endl;
+        cout<<"NO"<<endl;
     else
-        cout<<"Even"<<endl;
+        cout<<"YES"<<endl;
 }
